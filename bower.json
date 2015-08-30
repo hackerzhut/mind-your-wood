@@ -1,0 +1,15 @@
+
+{
+  "name": "custom-bootstrap-example",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "3.3.5"
+  }
+}
