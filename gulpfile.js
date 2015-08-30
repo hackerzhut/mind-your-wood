@@ -95,7 +95,7 @@ gulp.task('watch', function() {
 
 gulp.task('serve', serve({
   root: ['html', 'build'],
-  port: process.env.port || 80
+  port: process.env.port || 3000
 }));
  
 
