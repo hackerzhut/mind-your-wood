@@ -61,6 +61,7 @@
     "gulp-nodemon": "^2.0.3",
     "gulp-livereload": "^3.8.0",
     "gulp-bower": "0.0.10",
+    "gulp-serve": "1.0.0",
     "rework-plugin-at2x": "^1.0.2",
     "reactify": "^1.1.0",
     "vinyl-source-stream": "^1.1.0",
